@@ -2,6 +2,8 @@
 import logging
 import sqlite3
 import random
+import os
+import html
 import re
 from datetime import datetime, timedelta
 from typing import Optional, Dict, List
